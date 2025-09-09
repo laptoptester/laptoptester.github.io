@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e718c56.css",
+    "main.js": "/static/js/main.391e29ce.js",
+    "static/media/fingerprint.png": "/static/media/fingerprint.c72dcb9b8758649d5ac3.png",
+    "static/media/bad-minidisplay.jpg": "/static/media/bad-minidisplay.d5505be0aeb6bbe923d6.jpg",
+    "static/media/cover.png": "/static/media/cover.f22f90faac0a0a38f0c5.png",
+    "static/media/Coiny-Regular.ttf": "/static/media/Coiny-Regular.61e71214a606a6502029.ttf",
+    "static/media/faceid.png": "/static/media/faceid.b2d879bf8c5630e7a8b2.png",
+    "static/media/Iranian-Sans.ttf": "/static/media/Iranian-Sans.8c2ed8fb0154947263c5.ttf",
+    "static/media/hddessential.png": "/static/media/hddessential.6f23cf2ef183377c79ed.png",
+    "static/media/crystaldiskinfo.png": "/static/media/crystaldiskinfo.d2ce703348150a4e096c.png",
+    "static/media/mousekeyboard.svg": "/static/media/mousekeyboard.7938634ecfb85059fc25f38ef75c16b2.svg",
+    "static/media/fingerprint.svg": "/static/media/fingerprint.c2556e86dee8a7846a8cbd27e4e29fe9.svg",
+    "static/media/speaker.svg": "/static/media/speaker.b65d6274d29922a511b9ae03c436e832.svg",
+    "index.html": "/index.html",
+    "static/media/wifi.svg": "/static/media/wifi.c76cf7c0cf841907a5b414813866e32d.svg",
+    "static/media/battery.svg": "/static/media/battery.4cd5f9ffc27d425965d1c72346ca7809.svg",
+    "static/media/storage.svg": "/static/media/storage.d6744a8a867eaeb8f9e7f78c12939265.svg",
+    "static/media/webcam.svg": "/static/media/webcam.f0f9e8d665defbd9a69a406d256519a0.svg",
+    "static/media/temp.svg": "/static/media/temp.d3cdf392f6adbb28a90c869cdd55b46d.svg",
+    "static/media/usb.svg": "/static/media/usb.e3fdd9e38e4674ca1ff190c0f05891b5.svg",
+    "static/media/charger.svg": "/static/media/charger.52281d8873d318bcd6c97279b9378d2c.svg",
+    "static/media/screen.svg": "/static/media/screen.a057b2f893fde8d7f004cc62f412a4f0.svg",
+    "static/media/appearance.svg": "/static/media/appearance.4b0176d673344b41c40484b7f6c0d843.svg",
+    "static/media/left.svg": "/static/media/left.982f02577e08730a5b823dd7bedf383b.svg",
+    "main.6e718c56.css.map": "/static/css/main.6e718c56.css.map",
+    "main.391e29ce.js.map": "/static/js/main.391e29ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e718c56.css",
+    "static/js/main.391e29ce.js"
+  ]
+}
