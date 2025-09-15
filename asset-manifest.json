@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e718c56.css",
-    "main.js": "/static/js/main.b9e37244.js",
+    "main.css": "/static/css/main.d3775f0c.css",
+    "main.js": "/static/js/main.b0f8f260.js",
     "static/media/fingerprint.png": "/static/media/fingerprint.c72dcb9b8758649d5ac3.png",
     "static/media/bad-minidisplay.jpg": "/static/media/bad-minidisplay.d5505be0aeb6bbe923d6.jpg",
     "static/media/cover.png": "/static/media/cover.f22f90faac0a0a38f0c5.png",
@@ -10,6 +10,9 @@
     "static/media/Iranian-Sans.ttf": "/static/media/Iranian-Sans.8c2ed8fb0154947263c5.ttf",
     "static/media/hddessential.png": "/static/media/hddessential.6f23cf2ef183377c79ed.png",
     "static/media/crystaldiskinfo.png": "/static/media/crystaldiskinfo.d2ce703348150a4e096c.png",
+    "static/media/small.png": "/static/media/small.1d6ea78b081f98b76f73.png",
+    "static/media/mid.png": "/static/media/mid.e858a08ca86c8828acfd.png",
+    "static/media/big.png": "/static/media/big.0e1d182a7c529c4d4e93.png",
     "static/media/mousekeyboard.svg": "/static/media/mousekeyboard.7938634ecfb85059fc25f38ef75c16b2.svg",
     "static/media/fingerprint.svg": "/static/media/fingerprint.c2556e86dee8a7846a8cbd27e4e29fe9.svg",
     "static/media/speaker.svg": "/static/media/speaker.b65d6274d29922a511b9ae03c436e832.svg",
@@ -24,11 +27,11 @@
     "static/media/screen.svg": "/static/media/screen.a057b2f893fde8d7f004cc62f412a4f0.svg",
     "static/media/appearance.svg": "/static/media/appearance.4b0176d673344b41c40484b7f6c0d843.svg",
     "static/media/left.svg": "/static/media/left.982f02577e08730a5b823dd7bedf383b.svg",
-    "main.6e718c56.css.map": "/static/css/main.6e718c56.css.map",
-    "main.b9e37244.js.map": "/static/js/main.b9e37244.js.map"
+    "main.d3775f0c.css.map": "/static/css/main.d3775f0c.css.map",
+    "main.b0f8f260.js.map": "/static/js/main.b0f8f260.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e718c56.css",
-    "static/js/main.b9e37244.js"
+    "static/css/main.d3775f0c.css",
+    "static/js/main.b0f8f260.js"
   ]
 }
